@@ -11,11 +11,11 @@ from innexiaBot import (
     LOGGER,
     OWNER_ID,
     PORT,
-    SUPPORT_CHAT,
+    SUPPORT_CHAT,https://t.me/PigasusSupport
     TOKEN,
     URL,
     WEBHOOK,
-    SUPPORT_CHAT,
+    SUPPORT_CHAT,https://t.me/PigasusSupport
     dispatcher,
     StartTime,
     telethn,
