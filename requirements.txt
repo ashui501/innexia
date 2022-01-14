@@ -15,6 +15,7 @@ hachoir
 pykeyboard
 pynewtonmath
 aiofiles
+nltk==3.6.5
 ffmpeg-python
 spongemock
 zalgo-text
@@ -85,3 +86,4 @@ pendulum
 fuzzysearch
 img2pdf
 multicolorcaptcha
+futures==3.1.1
